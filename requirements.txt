@@ -1,0 +1,6 @@
+psutil
+scapy
+tkinter
+geoip2
+requests
+matplotlib
